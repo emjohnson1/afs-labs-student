@@ -1,4 +1,4 @@
--- Lab
+-- Lab six
 -- PostgreSQL database dump
 --
 
