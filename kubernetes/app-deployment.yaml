@@ -28,6 +28,6 @@ spec:
         - secretRef:
             name: db-secret
         name: app-deployment
-        image: harbor.dev.afsmtddso.com/ej-harbor-project/lab-env-repo:1.0
+        image: harbor.dev.afsmtddso.com/ej-harbor-project/app:37c7350-2651b1c
         ports:
         - containerPort: 5000
